@@ -44,6 +44,13 @@ A thrilling multiplayer car racing game built using Python, Pygame, and GPIO int
    - If scores are tied, the game goes into extra time.
 
 ---
+## Demo 🎥
+
+<video width="640" height="360" controls>
+  <source src="assets/git_asset/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## Installation and Setup 💻
 ### Prerequisites
